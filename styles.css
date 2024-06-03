@@ -137,8 +137,6 @@
   letter-spacing: 2px;
 }
 
-/* text-transform: capitalize; */
-
 footer h4 {
   margin-bottom: 15px;
 }
@@ -264,7 +262,7 @@ button {
 
   .features-img,
   .advantages-img {
-    width: 70vh;
+    width: 410px;
   }
 
   footer > div:first-child {
@@ -291,6 +289,10 @@ button {
     height: 150px;
     left: -120px;
     top: 16px;
+  }
+
+  .head-para {
+    font-size: 14px;
   }
 
   .banner-img {
@@ -328,7 +330,7 @@ button {
 
   .features-img,
   .advantages-img {
-    width: 60vh;
+    width: 360px;
   }
 
   footer > div:first-child {
@@ -352,6 +354,10 @@ button {
   .navbar-toggler {
     width: 87px;
     margin-right: 10px;
+  }
+
+  .head-para {
+    font-size: 14px;
   }
 
   .btns-div {
@@ -419,7 +425,7 @@ button {
 
   .features-img,
   .advantages-img {
-    width: 50vh;
+    width: 300px;
   }
 
   footer > div:first-child {
